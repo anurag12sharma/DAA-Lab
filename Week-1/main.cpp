@@ -1,3 +1,5 @@
+// Linear Search Algo 
+
 #include<iostream>
 using namespace std;
 void linearSearch(int a[],int size,int key){
