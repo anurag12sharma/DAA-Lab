@@ -12,7 +12,7 @@ int binarySearch(int a[],int size,int key){
         else if(a[mid]>key){
             end=mid-1;
         }
-        else if(a[mid]<key)
+        else if(a[mid]<key){
             start=mid+1;
         }
         mid=(start+end)/2;
