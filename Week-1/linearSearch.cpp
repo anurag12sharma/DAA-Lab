@@ -25,6 +25,7 @@ int main(){
         cout<<"Enter the elements: "<<endl;
         for(int i=0;i<n;i++){
             cin>>a[i];
+            
         }
         cout<<"Enter the key"<<endl;
         cin>>key;
